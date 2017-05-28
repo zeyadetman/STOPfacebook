@@ -1,6 +1,11 @@
 # STOPfacebook
 ChromeExtension to disable pics and videos to save your time
 
-## ScreenShot
+## Screenshot
 ![screenshot](https://github.com/zeyadetman/STOPfacebook/blob/master/screenshot.png?raw=true)
-Format: ![Alt Text](url)
+
+## How to install ?
+1. a
+1. v
+1. v
+1. v
