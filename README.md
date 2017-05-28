@@ -7,7 +7,7 @@ ChromeExtension to disable pics and videos to save your time
 ## How to install ?
 1. Download this repository. (https://github.com/zeyadetman/STOPfacebook/archive/master.zip)
 1. Extract the Zip file.
-1. Open chrome and go to chrome://extensions
+1. Open chrome and go to [Chrome extensions](chrome://extensions)
 1. Check the Developer mode (make it activate). 
 1. Load unpacked extension.
 1. Select the unzipped folder.
