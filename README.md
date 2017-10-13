@@ -11,3 +11,9 @@ ChromeExtension to disable pics and videos to save your time
 1. Check the Developer mode (make it activate). 
 1. Load unpacked extension.
 1. Select the unzipped folder.
+
+
+## To contribute: 
+1. [ ] display a link to picture.
+1. [ ] display caption for this picture.
+1. [ ] add more features.
